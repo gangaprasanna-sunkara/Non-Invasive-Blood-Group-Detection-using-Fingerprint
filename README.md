@@ -108,16 +108,3 @@ python app.py
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License – see the [LICENSE](LICENSE) file for details.
-
----
-
-## 🙌 Acknowledgments
-
-* **Dataset**: [SOCOFing – Sokoto Coventry Fingerprint Dataset](https://www.kaggle.com/datasets/ruizgara/socofing)
-* **Supervisor**: Dr. Umair Muneer Butt (UMT Sialkot)
-* **Team**: Habiba Fiaz, Saad Jamshaid, Zahra Akhtar, Wabil Nadeem Butt
-
----

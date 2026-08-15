@@ -97,7 +97,6 @@ python app.py
 * Flask demo app with cyberpunk dark-themed UI.
 * Easy to run locally (requirements + model file).
 * Extendable to MLOps tools (Docker, MLflow, GitHub Actions).
-
 ---
 
 ## 📈 Results
@@ -105,6 +104,5 @@ python app.py
 * **Test Accuracy**: 90.33%
 * **Model**: EfficientNetB0 (transfer learning)
 * **Classes**: 8 blood groups → `['A+', 'A-', 'B+', 'B-', 'AB+', 'AB-', 'O+', 'O-']`
-
 ---
 
